@@ -10,6 +10,10 @@ Detailed Information: Provides detailed information about each cryptocurrency, i
 User-friendly Design: Designed to be accessible and easy to navigate, catering to both beginners and seasoned cryptocurrency enthusiasts.
 Whether you're tracking Bitcoin's latest price surge or exploring new altcoins, CryptoTrack Pro ensures you stay informed and ahead in the fast-paced world of digital currencies. Ideal for investors, traders, and anyone curious about the evolving landscape of cryptocurrencies, CryptoTrack Pro is your go-to tool for staying updated and making informed decisions in the crypto market.
 
+# Screenshots
+![image](https://github.com/BishwanathKumarPanda/CryptoTrack-Pro/assets/138992024/227d6475-36ee-4f5f-a122-fce384cb9703)
+
+
 
 
 
